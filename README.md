@@ -21,3 +21,8 @@ Fixed baseline rate used: **1 GBP = 105.50 INR** (project-defined constant, not 
 
 ## Dataset
 71 books across 4 categories: Travel, Mystery, Historical Fiction, Sequential Art.
+
+## concusion 
+-done with module-1
+
+Repository maintained by vishnuvardhan
